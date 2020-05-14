@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-#Learning DayTime
+#Learning DayTime for testing only
 # INSTRUCTIONS: How much time left , we measure time left untill a specific task is met . 
 # eg i can say i have 4 days and 10 hours before my next time off at work. Timedelat can only go up to 23hr and 59mins
 
